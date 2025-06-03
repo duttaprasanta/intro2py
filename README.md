@@ -2,5 +2,5 @@
 
 ## Link
 ```
-www.isical.ac.in/~prasantadutta
+www.isical.ac.in/~prasantadutta/intro2py
 ```
